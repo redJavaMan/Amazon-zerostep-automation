@@ -1,4 +1,4 @@
-# Amazon ZeroStep Automation
+# Amazon ZeroStep AI Automation
 
 A comprehensive Playwright-based test automation framework for Amazon with multi-environment support and AI-powered testing capabilities using ZeroStep.
 
